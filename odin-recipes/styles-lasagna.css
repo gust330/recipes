@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: brown;
+}
+
+ul{
+    display: table;
+    margin: 0 auto;
+}
+
+ol{
+    list-style-position: inside;
+}
+
